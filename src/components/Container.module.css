@@ -1,0 +1,9 @@
+.container{
+    min-width: 40%;
+    max-width: 400px;
+    border: 2px solid rgb(172, 171, 171);
+    padding: 8px;
+    margin: 8px;
+    display: block;
+    margin: auto auto;
+}
